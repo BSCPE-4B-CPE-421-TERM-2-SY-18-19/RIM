@@ -1,0 +1,15 @@
+QUIZ # 1 - FINAL TERM
+
+Observations:
+•	I noticed or observed that the LED in the motherboard lights up once the system is connected
+•	The fan in the power supply and motherboard works well for a few seconds and then stops working after a while.
+•	And the monitor displays ‘Power Saver  Mode is On’ while the fan is working, and turns off.
+•	A certain capacitor is bloated in the power supply.
+
+
+Possible Solution:
+•	The fuse in the power supply needs to be replaced.
+•	The bloated capacitor also needs replacing.
+•	We think that the power supply has a problem, so it’s better for us to replace it with a functional power supply, with the same specifications.
+•	If these possible solutions can’t change anything to make the system functional, better troubleshoot the motherboard and its parts.
+
